@@ -1,0 +1,2 @@
+# Breast Cancer Classification using K-Nearest Neighbors
+In this project, I'll employ K-Nearest Neighbors (KNN) to classify breast cancer cases. I'll classify breast cancer cases using KNN, optimize model parameters, perform dimensionality reduction with PCA, and visualize clusters in a 2D space.
